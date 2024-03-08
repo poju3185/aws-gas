@@ -7,7 +7,6 @@ Directory contents are as follows:
 - `/web` - The GAS web app files
 - `/ann` - Annotator files
 - `/util` - Utility scripts for notifications, archival, and restoration
-- `/aws` - AWS user data files
 
 ## Job Archive Mechanism Implementation
 
